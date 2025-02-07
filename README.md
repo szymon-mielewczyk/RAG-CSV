@@ -59,6 +59,13 @@ Ensure you have Kaggle API credentials configured to download the dataset.
 5. **Run the Notebooks**
    Use Jupyter Notebook or any compatible environment to open and run the provided `.ipynb` files.
 
+## Credentials
+   - For RAG tutorial from LangChain:
+     Instructions provided in the [LangChain RAG Tutorial](https://python.langchain.com/docs/tutorials/rag/).
+   
+   - For QA with Chat History tutorial from LangChain:
+     Refer to the [LangChain QA Chat History Tutorial](https://python.langchain.com/docs/tutorials/qa_chat_history/).
+
 ## Usage
 
 - **RAG-txt.ipynb**: Ideal for simple retrieval tasks.
